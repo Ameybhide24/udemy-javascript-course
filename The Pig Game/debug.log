@@ -1,0 +1,4 @@
+[0717/184901.096:ERROR:file_io.cc(89)] ReadExactly: expected 504, observed 0
+[0717/184901.100:ERROR:crash_report_database_win.cc(445)] failed to read records
+[0717/184921.820:ERROR:file_io.cc(89)] ReadExactly: expected 504, observed 0
+[0717/184921.820:ERROR:crash_report_database_win.cc(445)] failed to read records
